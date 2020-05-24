@@ -1,0 +1,4 @@
+[submodule "AB-AudioMatrix-6x6-Eagle"]
+	url = https://github.com/HansAchterbahn/AB-AudioMatrix-6x6-Eagle
+[submodule "AB-AudioMatrix-6x6-Kicad"]
+	url = https://github.com/HansAchterbahn/AB-AudioMatrix-6x6-Kicad
