@@ -1,6 +1,7 @@
 # AB AudioMatrix 6x6
 
-Active audio matrix (6x6), which can map 6 input channels to 6 output channels. Connection via 3.5 jack cable. Compatible with line signals (aux, headphones, active speakers, ...).
+
+Active audio matrix (6×6), that can map 6 input channels (1-6) to 6 output channels (A-F). Connection via 3.5 jack cable. Compatible with line signals, aux, headphones and active speakers. Each output channel can map one input channel at a time.
 
 *Fork me and have fun!*
 
