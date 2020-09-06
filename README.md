@@ -20,7 +20,8 @@ Active audio matrix (6×6), that can map 6 input channels (1-6) to 6 output chan
 ![Mounted device](https://github.com/HansAchterbahn/AB-AudioMatrix-6x6-Kicad/blob/master/doc/MountedDevice-FrontView.jpg)  
 Mounted device
 
-![Board](https://raw.githubusercontent.com/HansAchterbahn/AB-AudioMatrix-6x6-Kicad/master/doc/PicRearView.jpg)
+![Board](https://raw.githubusercontent.com/HansAchterbahn/AB-AudioMatrix-6x6-Kicad/master/doc/PicRearView.jpg)  
+Board
 
 ## Licence
 
