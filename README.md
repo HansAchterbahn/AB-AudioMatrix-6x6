@@ -12,7 +12,6 @@ Active audio matrix (6×6), that can map 6 input channels (1-6) to 6 output chan
 | -------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | <s>[AB-AudioMatrix-6x6-Eagle](https://github.com/HansAchterbahn/AB-AudioMatrix-6x6-Eagle)</s> | <s>Older versions of AudioMatrix PCBs made in Eagle</s> |
 | [AB-AudioMatrix-6x6-Kicad](https://github.com/HansAchterbahn/AB-AudioMatrix-6x6-Kicad) | Newer versions of AudioMatrix PCBs made in Kicad |
-|                                                                                        | Housing for lasercutter                          |
 
 
 
